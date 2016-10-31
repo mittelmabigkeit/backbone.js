@@ -40,4 +40,9 @@ var Person = Backbone.Model.extend({// на жаргоне это класс
 
 });
 
+//CONSOLE COMMANDS
 //var person = new Person;
+//person;
+//person.on('error', function(model, error) {console.log(error)});
+//person.set("age","-25",{validate:true});
+//person;
